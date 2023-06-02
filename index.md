@@ -40,6 +40,14 @@ Mandarin (native) English (oral and written)
 
 ## current work for ELEC4630
 
-Assignement1 [link to assignment3 code](https://www.fast.ai). 
-Assignement2 [link to assignment3 code](https://www.fast.ai). 
-Assignement3 [link to assignment3 code](https://www.fast.ai). 
+Assignement1 
+
+[link to assignment3 code](https://www.fast.ai). 
+
+Assignement2 
+
+[link to assignment3 code](https://www.fast.ai). 
+
+Assignement3
+
+[link to assignment3 code](https://www.fast.ai). 
