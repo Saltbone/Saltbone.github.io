@@ -1,6 +1,6 @@
 Hello and welcome to this blog. My name is Jixian Fan and you can find my email here Jixian.fan@uqconnect.edu.au
 ![Image of fast.ai logo](images/logo.png)
-![Image of me](WechatIMG16.jpeg)
+![Image of me](images/Screenshot 2023-06-02 at 2.39.27 pm.png)
 The purpose of this blog is simply to document my journey.
 
 
