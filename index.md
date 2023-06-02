@@ -14,7 +14,10 @@ Mechatronic, Electronic and Communication Engineering
 
 EDUCATION
 Master.Eng. in Australia, - University of Queensland
-B.Eng. in Australia, – The Australia National University (fourth year honour) Western Australian Certification of education, – Aidi School
+
+B.Eng. in Australia, – The Australia National University (fourth year honour) 
+
+Western Australian Certification of education, – Aidi School
 
 
 
